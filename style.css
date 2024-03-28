@@ -1,0 +1,35 @@
+body
+{
+    position: center;
+}
+canvas
+{
+    background-color: rgb(0, 255, 0);
+    box-shadow: rgb(0, 255, 234);
+    border-radius: 40px;
+    border: 10px;
+    border-color: black;
+    border-style: double;
+    position: unset;
+}
+.raja
+{
+    background-color: rgb(25, 0, 255);
+    color: black;
+    border: 8px;
+    border-color: black;
+    border-style: double;
+    font-size: 30px;
+}
+.heading button
+{
+    float:right;
+}
+.heading h2
+{
+    display:inline;
+}
+.heading
+{
+    color: rgb(242, 255, 0);
+}
